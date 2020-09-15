@@ -14,7 +14,13 @@ def offer_food():
 def say_bye():
    print("Cheerio then.")
 
+def tell_joke():
+    print("Why don't oysters donate to charity? Because they're selfish!")
 
-offer_drink()
+
 say_hi()
+tell_joke()
+offer_drink()
 offer_food()
+say_bye()
+
