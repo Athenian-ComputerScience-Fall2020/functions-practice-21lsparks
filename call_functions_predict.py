@@ -19,8 +19,8 @@ offer_food()
 
 '''
 Write your predictions here between the lines of quotes. (This is a way to do bigger comments!)
-1. 
-2. 
-3. 
+1. offer drink
+2. say hi
+3. offer food
 Then run the code and check your answers. 
 '''
