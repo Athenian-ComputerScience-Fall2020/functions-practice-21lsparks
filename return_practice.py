@@ -20,6 +20,6 @@ print(output_num)
 
 '''
 Add prediction(s) here:
-
+# I think it will work because i am smart. I predict be 45
 
 '''
